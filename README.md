@@ -17,4 +17,6 @@ doom 3 linux wide screen fix
 * seta r_multisamples "0"
 * vid_restart
 
+# My YT channel:
+https://www.youtube.com/c/SilentGamePLS/
 # Enjoy  silentgamepls!
