@@ -1,6 +1,5 @@
 # doom3-linux-widescreen-fix
-doom 3 linux wide screen fix
-# NB! The creator of this fix is not responsible if something will go wrong during install,or for any issues that arise on your OS/hardware.This fix is distruibuted under GPL 3.0 license.This tutorial is meant for enthusiasts,tinkerers and gamers who want the the game to work and are not affraid to take the risk of learning some new stuff in the process
+# NB! The creator of this fix is not responsible if something will go wrong during install,or for any issues that arise on your OS/hardware.This fix is distributed under GPL 3.0 license.This tutorial is meant for enthusiasts,tinkerers and gamers who want the the game to work and are not affraid to take the risk of learning some new stuff in the process.
 
 # Create a an autoexec.cfg and drop it into your base doom3 directory in Steam client.Recommended Proton versions 5.13 and 6.8 (they don't give black textures as experimental does)
 # Explanation
