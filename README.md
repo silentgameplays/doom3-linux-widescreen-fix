@@ -1,7 +1,7 @@
 # doom3 widescreen fix
 **NB! The creator of this fix is not responsible if something will go wrong during install,or for any issues that arise on your OS/hardware.This fix is distributed under GPL 3.0 license.This tutorial is meant for enthusiasts,tinkerers and gamers who want the the game to work and are not affraid to take the risk of learning some new stuff in the process.**
 
-**Create a an autoexec.cfg and drop it into your base doom3 directory in Steam client.**
+**Create an autoexec.cfg file and drop it into your base doom3 directory in Steam client.**
 ```
 seta r_renderer "best"
 seta com_videoRam "1024"
