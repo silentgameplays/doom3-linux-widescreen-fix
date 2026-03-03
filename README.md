@@ -1,10 +1,21 @@
 # doom3 widescreen fix
 **NB! The creator of this fix is not responsible if something will go wrong during install,or for any issues that arise on your OS/hardware.This fix is distributed under GPL 3.0 license.This tutorial is meant for enthusiasts,tinkerers and gamers who want the the game to work and are not affraid to take the risk of learning some new stuff in the process.**
 
-**Create a an autoexec.cfg and drop it into your base doom3 directory in Steam client.Recommended Proton versions 5.13 and 6.8 (they don't give black textures as experimental does)**
+**Create a an autoexec.cfg and drop it into your base doom3 directory in Steam client.**
+
+**Windows path:**
+
+* ``C:\Program Files (x86)\Steam\steamapps\common\Doom 3\base``
+
+**Linux path:**
+
+* ``/home/user/.steam//steamapps/common/Doom 3/base``
+
+*NB! Recommended Proton versions 5.13 and 6.8 (they don't give black textures as experimental does)*
+
 **Explanation of settings**
 
-**Your monitor resolution it cn be 2k/4k adjust accordingly:**
+**Your monitor resolution, it can be 2k/4k adjust accordingly 2k is 2560x1440 and 4k is 3840x2160::**
 * ``seta r_customHeight "1080"``
 * ``seta r_customWidth "1920"``
 
@@ -30,5 +41,6 @@
 * ``vid_restart``
 
 **My YT channel:**
-https://www.youtube.com/c/SilentGamePLS/
+https://www.youtube.com/@silentgameplays
 **Enjoy  silentgameplays!**
+
