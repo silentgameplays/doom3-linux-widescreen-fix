@@ -22,7 +22,7 @@
 
 **Your display refresh v-sync rate current 60,you can set according to your monitor refresh rate 144.160,180,244,etc,just make sure you enabled it in display configuration.**
 
-* seta r_displayRefresh "60"
+* ``seta r_displayRefresh "60"``
 
 **Antialiasing from 0 to 4 to 8,depends on how you like it**
 
